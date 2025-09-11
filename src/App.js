@@ -5,16 +5,16 @@ import {
   RouterProvider,
 } from "react-router-dom";
 
-import AddProduct from './components/AddProduct';
-import ProductCatalog from './components/Product/ProductCatalog';
+import AddProduct from './component/AddProduct';
+import ProductCatalog from './component/Product/ProductCatalog';
 import Layout from './Layout';
-import Cart from './components/Cart/Cart';
+import Cart from './component/Cart/Cart';
 import NotFound from './pages/NotFound';
 import { CartProvider } from './context/CartContext';
-import Inventory from './components/Inventory/Inventory';
+import Inventory from './component/Inventory/Inventory';
 import { InventoryProvider } from './context/InventoryContext';
 import { SalesProvider } from './context/SalesContext';
-import Sales from './components/Sales/Sales';
+import Sales from './component/Sales/Sales';
 
 const router = createBrowserRouter([
   {
