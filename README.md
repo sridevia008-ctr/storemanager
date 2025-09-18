@@ -1,4 +1,4 @@
-Store Manager Project Demo link : https://drive.google.com/file/d/1UwtHOlgdqs4E-TEae12hW6pWquNx02P3/view?usp=sharing
+Store Manager Project Demo link : https://drive.google.com/file/d/1i9j8hykqXLWPABSc6h7kVeXeSnpOmkos/view?usp=sharing
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
